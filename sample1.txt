@@ -1,1 +1,2 @@
-this is edited  by batch 2
+ im batch 1 guy this is my code
+>>>>>>> batch1
