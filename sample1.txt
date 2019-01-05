@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is edited  by developer
+=======
+hello
+
+>>>>>>> 27c4836d0b2d890a9cb7e1f550e033127684be7f
